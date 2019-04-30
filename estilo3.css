@@ -1,0 +1,68 @@
+#form1 {
+    width: 100%;
+    text-align: center;
+    height: 200%;
+    padding: 20px;
+}
+
+article {
+    width: 100%;
+    background-color: rgb(231, 224, 224);
+    min-height: 80%;
+
+    
+}
+
+#tabla1{
+    font-family:"cursive";
+    font-size: 20px;
+    background-color: rgb(231, 224, 224); 
+    border-radius: 36px 36px 36px 36px;
+    -moz-border-radius: 36px 36px 36px 36px;
+    -webkit-border-radius: 36px 36px 36px 36px;
+    border: 0px solid #000000;
+}  
+.btn1 {
+    text-align: center;
+    height: 50px;
+
+}  
+input,textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-sizing: border-box;
+    box-sizing: border-box;
+    align-self: center;
+
+}
+textarea {
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+}
+#fecha {
+    width: 100%;
+}
+input[type="submit"]{
+    margin-bottom: 0%;
+   background-color: rgb(82, 160, 59);
+    border: none;
+    text-align: center;
+}
+input[type="reset"]{
+    margin-bottom: 0%;
+   background-color: rgb(82, 160, 59);
+    border: none;
+    text-align: center;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+.carousel-inner{
+ height: 200px;
+}
+
